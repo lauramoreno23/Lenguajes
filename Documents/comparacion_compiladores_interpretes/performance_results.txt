@@ -1,0 +1,4 @@
+C++ Iterativo: 3e-07
+C++ Recursivo: 0.896143
+Python Iterativo: 6.9141387939453125e-06
+Python Recursivo: 17.07407259941101

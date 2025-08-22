@@ -1,0 +1,2 @@
+Fibonacci iterativo(40) = 102334155
+Tiempo de ejecución: 6.9141387939453125e-06 segundos
